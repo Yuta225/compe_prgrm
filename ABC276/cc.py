@@ -1,5 +1,6 @@
 def prevPermutation(str):
-
+    # Find index of the last element
+    # of the string
 	n = len(str) - 1
 
 	# Find largest index i such that
