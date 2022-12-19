@@ -1,5 +1,1 @@
-x = set()
-x.add((1,2))
-x.add((1,2))
-x.remove((1,2))
-print(x)
+print(ord("b"))
